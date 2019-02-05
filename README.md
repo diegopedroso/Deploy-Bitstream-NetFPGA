@@ -10,7 +10,7 @@ Para que os elementos reprogramáveis de plano de dados baseados em FPGA e PISA 
 * Ruby 2.2 ou superior
 * OMF EC
 
-### Visão Geral (VMs)
+### Visão Geral 
 
 Ocorre que, o processo de compilação dos projetos utilizando um hardware comum ou qualquer uma das máquinas do testbed é muito demorado. Portanto, criou-se um controlador para era direcionar uma thread para um servidor com um  hardware dedicado a esse tipo de função, de modo que este realizaria a compilação em um intervalo de tempo menor do que as máquinas do ambiente de experimentação.
 
