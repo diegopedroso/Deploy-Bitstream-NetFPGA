@@ -6,9 +6,9 @@ Para que os elementos reprogramáveis de plano de dados baseados em FPGA e PISA 
 
 ### Requisitos
 
-> Projeto da arquitetura da placa em Verilog
-> Ruby 2.2 ou superior
-> OMF EC
+* Projeto da arquitetura da placa em Verilog
+* Ruby 2.2 ou superior
+* OMF EC
 
 ### Visão Geral (VMs)
 
