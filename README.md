@@ -19,7 +19,7 @@ Siga as seguintes instruções para fazer o upload do seu projeto para compilaç
 > Compacte o seu projeto em um arquivo do tipo tar.gz com o comando. O nome informado no arquivo deve ser o mesmo referenciado dentro do script deploy.rb
 
 ```bash
-$ tar -czvf seu_projeto.tar.gz
+$ tar -czvf seu_projeto.tar.gz pasta_do_projeto
 ```
 > Copie o arquivo para o mesmo diretório do arquivo deploy.rb, e execute o comando abaixo
 
